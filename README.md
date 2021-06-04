@@ -1,2 +1,2 @@
-# Token-Grabber
-Token grab for discord plugins. (not used to for malicious intent.)
+# Status Changer (Automatic)
+a very useful selfbot for your status.
